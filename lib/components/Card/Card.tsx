@@ -55,7 +55,7 @@ const Card = (props) => {
         numberOfLines={1}
         style={dateStyle || _dateStyle(dateFontColor, isCard)}
       >
-        {moment(data.date).format("DD ddd, HH:mm")}
+        {data.date}
       </Text>
     </Androw>
   );
