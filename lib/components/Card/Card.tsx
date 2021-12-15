@@ -1,7 +1,7 @@
 import * as React from "react";
 import PropTypes from "prop-types";
 import { Text, View } from "react-native";
-import moment from "moment";
+import moment from "moment/min/moment-with-locales";
 import Androw from "react-native-androw";
 import { isAndroid } from "@freakycoder/react-native-helpers";
 /**
