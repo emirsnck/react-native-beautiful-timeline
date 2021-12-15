@@ -30,10 +30,10 @@ Point.propTypes = {
 };
 
 Point.defaultProps = {
-  pointShadowColor: "#984cf8",
-  pointBackgroundColor: "#984cf8",
-  outerContainerBorderColor: "rgba(152, 76, 248, 0.1)",
-  outerContainerBackgroundColor: "rgba(152, 76, 248, 0.05)",
+  pointShadowColor: "#1B1047",
+  pointBackgroundColor: "#1B1047",
+  outerContainerBorderColor: "rgba(27, 16, 71, 0.1)",
+  outerContainerBackgroundColor: "rgba(27, 16, 71, 0.05)",
 };
 
 export default Point;
