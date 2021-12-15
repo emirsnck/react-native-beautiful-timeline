@@ -63,8 +63,8 @@ PointLine.propTypes = {
 };
 
 PointLine.defaultProps = {
-  dayFontColor: "#984cf8",
-  monthFontColor: "#ded9e6",
+  dayFontColor: "#1B1047",
+  monthFontColor: "#b9acec",
 };
 
 export default PointLine;
