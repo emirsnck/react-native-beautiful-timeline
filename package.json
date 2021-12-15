@@ -20,7 +20,7 @@
   "homepage": "https://www.freakycoder.com",
   "bugs": "https://github.com/WrathChaos/react-native-beautiful-timeline/issues",
   "main": "./build/dist/Timeline.js",
-  "repository": "git@github.com:WrathChaos/react-native-beautiful-timeline.git",
+  "repository": "git@github.com:emirsnck/react-native-beautiful-timeline.git",
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
   "scripts": {
